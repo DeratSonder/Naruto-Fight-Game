@@ -1,0 +1,13 @@
+  hsp=0;
+vsp=0;
+gra=0.4;
+walkspd=5;
+dame=0;
+firingdelay=0;
+firingdelay1=0;
+hp=200;
+flash=0;
+state1=0;
+hascontrol=true;
+controller=0;
+solan=30;
